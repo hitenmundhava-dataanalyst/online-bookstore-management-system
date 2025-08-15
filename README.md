@@ -15,7 +15,7 @@ It demonstrates **database design, relational modeling, SQL queries, stored proc
   - Payment recording
 
 ## 📊 ER Diagram
-![ER Diagram](onlinebookstore_ER_diagram_improved.png)
+![ER Diagram](onlinebookstore_ER_diagram_improved (1).png)
 
 ## 💻 Tech Stack
 - MySQL
